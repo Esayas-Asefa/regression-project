@@ -85,7 +85,7 @@ Project Description:
     
 ## Takeaways and Conclusions
 
-Bathroom count is the greatest indicator for home value and pre.
+Bathroom count is the greatest indicator for home value among my features. .
 
 ## Recommendations
 
